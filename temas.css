@@ -15,6 +15,7 @@
     width: 100%;
     height: 80px;
     background-color: cyan;
+    display: flex;
 }
 .contenedor2{
     display: flex;
@@ -37,3 +38,13 @@ background-color: darkkhaki;
     height: 1200px;
     background-color: deeppink;
 }
+ .sociales{
+     width: 100px;
+     height: 78px;
+     background-color: aqua
+ }
+ .matematicas{
+     width: 100px;
+     height: 78px;
+     background-color: brown;
+ }
